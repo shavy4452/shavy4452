@@ -1,28 +1,51 @@
-### hey there 
-<a href="https://www.instagram.com/imshavysingh/">
-  <img align="left" alt="Shavy's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/n7J26nP9gC">
-  <img align="left" alt="Shavy's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/sarveshsingh_i">
-  <img align="left" alt="Shavy | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shavy4452/">
-  <img align="left" alt="Shavy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h1 align="center"><a href="https://peterhan.dev">Hi, I'm Sarvesh 👋  - Cybersecurity Expert & Programmer </a></h1>
+
+<p align="center">
+  <a href="https://github.com/shavy4452">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+  <a href="https://www.linkedin.com/in/sarveshsingh1322">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/invite/n7J26nP9gC">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
+  <a href="https://twitter.com/imshavy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
+      <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></picture></a>
+</p>
+
 
 
 <br />
 <br />
 
-hi, i'm [Sarvesh Singh AKA Shavy](https://shavyis.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+## 🛡️ About Me
+I am a passionate cybersecurity professional currently working in the industry. With a strong background in both offensive and defensive security measures, I thrive in securing digital landscapes. Beyond my cybersecurity expertise, I am also a dedicated programmer with proficiency in various languages such as JavaScript, Python, and PHP, along with their frameworks.
+
+## 💼 Professional Experience
+- Junior SOC Analyst at Deloitte US - Specializing in Threat Monitoring And Prevention.
+- Web Developer at Trigma Solution Private Limited - Scripting, Backend Process.
+
+## 🔧 Tech Stack
+- **Languages**: JavaScript, Python, PHP, SQL, NOSQL
+- **Frameworks**: ReactJS, Express, Flask, Django, Yii2, MySQL, MongoDB
+- **Security**: Splunk Enterprise Security, Phantom SOAR
+
+## 🌐 Open Source Contributions
+I am actively seeking opportunities to contribute to open source projects. If you have a project that could benefit from my skills, feel free to reach out!
+
+## 🤝 Let's Collaborate!
+I am open to collaboration and always eager to contribute to meaningful projects. If you have an exciting open source initiative or project that aligns with my skills, don't hesitate to contact me. You can reach me on Discord at [YourDiscordUsername#1234].
 
 
 
-  <img align="right" alt="GIF" src="https://i.postimg.cc/MTkdcrh2/code.gif" width="500" height="320" />
+Let's make the digital world more secure and innovative together! 💻🚀
   
-- 💼 any freelance work? do reach, [email](mailto:shavy@clashpanda.xyz) :)
+- 💼 any open work? do reach, [email](mailto:sarveshsingh1322@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -38,12 +61,6 @@ hi, i'm [Sarvesh Singh AKA Shavy](https://shavyis.me/), a passionate self-taught
 
 </br>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/shavygaming" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-
-📈 my github stats, these stats are of my public repo's so doesnt show much as my almost repos are private but i am gonna make them public soon.
-
+## 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shavy4452&show_icons=true&theme=gotham" alt="shavy4452" />
