@@ -33,7 +33,8 @@ I am a passionate cybersecurity professional currently working in the industry. 
 ## 🔧 Tech Stack
 - **Languages**: JavaScript, Python, PHP, SQL, NOSQL
 - **Frameworks**: ReactJS, Express, Flask, Django, Yii2, MySQL, MongoDB
-- **Security**: Splunk Enterprise Security, Phantom SOAR
+- **Security**: Splunk Enterprise Security, Phantom SOAR, Microsoft 365 Defender Enterprise, Google Chronicle
+- **Ticketing Tools**: Jira, Service-Now
 
 ## 🌐 Open Source Contributions
 I am actively seeking opportunities to contribute to open source projects. If you have a project that could benefit from my skills, feel free to reach out!
