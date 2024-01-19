@@ -39,7 +39,7 @@ I am a passionate cybersecurity professional currently working in the industry. 
 I am actively seeking opportunities to contribute to open source projects. If you have a project that could benefit from my skills, feel free to reach out!
 
 ## 🤝 Let's Collaborate!
-I am open to collaboration and always eager to contribute to meaningful projects. If you have an exciting open source initiative or project that aligns with my skills, don't hesitate to contact me. You can reach me on Discord at [YourDiscordUsername#1234].
+I am open to collaboration and always eager to contribute to meaningful projects. If you have an exciting open source initiative or project that aligns with my skills, don't hesitate to contact me. You can reach me on Discord at [imshavy].
 
 
 
