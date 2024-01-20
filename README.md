@@ -7,6 +7,8 @@
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.linkedin.com/in/sarveshsingh1322">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="https://stackoverflow.com/users/15974292/shavy">
+    <img alt="Stackoverflow" title="Stackoverflow" height="48" src="https://cdn.simpleicons.org/stackoverflow"></a>
 </p>
 
 <p align="center">
@@ -16,6 +18,8 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
       <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></picture></a>
+  <a href="https://www.instagram.com/imshavysingh/">
+     <img alt="Stackoverflow" title="Stackoverflow" height="48" src="https://cdn.simpleicons.org/instagram"></a>
 </p>
 
 
